@@ -24,7 +24,7 @@ En este tutorial, usará [!INCLUDE[name-sos](../includes/name-sos-short.md)] par
 
 ## <a name="prerequisites"></a>Requisitos previos
 
-Para completar este tutorial rápido, necesitará [!INCLUDE[name-sos](../includes/name-sos-short.md)]y un servidor de base de datos de SQL Azure.
+Para completar el estudio de este tutorial rápido, necesitará [!INCLUDE[name-sos](../includes/name-sos-short.md)]y un servidor de base de datos de SQL Azure.
 
 - [Instalar [!INCLUDE[name-sos](../includes/name-sos-short.md)]](download.md)
 
