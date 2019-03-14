@@ -24,7 +24,7 @@ En este tutorial, usará [!INCLUDE[name-sos](../includes/name-sos-short.md)] par
 
 ## <a name="prerequisites"></a>Requisitos previos
 
-Para completar este tutorial rápido, necesitará [!INCLUDE[name-sos](../includes/name-sos-short.md)]y un servidor de base de datos de SQL Azure.
+Para completar el estudio de este tutorial rápido, necesitará [!INCLUDE[name-sos](../includes/name-sos-short.md)]y un servidor de base de datos de SQL Azure.
 
 - [Instalar [!INCLUDE[name-sos](../includes/name-sos-short.md)]](download.md)
 
@@ -39,7 +39,7 @@ Si no tiene un servidor SQL Azure, complete uno de los siguientes inicios rápid
 
 Use [!INCLUDE[name-sos](../includes/name-sos-short.md)] para establecer una conexión al servidor de Azure SQL Database.
 
-1. La primera vez que ejecute [!INCLUDE[name-sos](../includes/name-sos-short.md)] el **conexión** debe abrir la página. Si no ve el **conexión** página, seleccione **Agregar conexión**, o el **nueva conexión** icono en el **servidores** sidebar:
+1. La primera vez que ejecute [!INCLUDE[name-sos](../includes/name-sos-short.md)] el apartado **conexión** debe de abrir la página. Si no ve el icono **conexión** página, seleccione **Agregar conexión**, o en **nueva conexión** del icono en el **servidores** sidebar:
    
    ![Nuevo icono de conexión](media/quickstart-sql-database/new-connection-icon.png)
 
